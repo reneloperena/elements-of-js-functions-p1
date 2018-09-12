@@ -28,4 +28,8 @@ yarn run test
 
 ## Exercises
 1. In `hello.js` you need to define a function called `sayHello` that takes a name as a parameter and returns the string `'Hello {name here}!'`.
+2. In `temperature.js`:
+  - Define a function named `fahrenheitToCelcius` which will take a value (number) in degrees fahrenheit and convert it to celsius
+  - Define a function named `celsiusToFahrenheit` which will do the same as the previous function but convert it from celsius to fahrenheit.
+  - Define a function named `friendlyCelsiusToFahrenheit` which will take a value in celsius and convert it to a string that contains the following: '{value in C} Celsius equals to {value in fahrenheit} Fahrenheit'
 2. (BONUS) Find out what are __Template Literals__ in JavaScript and change your code to use them. (Mozilla Developer Network is a great place to find information about JavaScript)
